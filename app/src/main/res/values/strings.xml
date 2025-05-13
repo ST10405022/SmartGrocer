@@ -1,3 +1,45 @@
 <resources>
     <string name="app_name">SmartGrocer</string>
+    <string name="product_name">Product Name</string>
+    <string name="price">Price</string>
+    <string name="category">Category</string>
+    <string name="in_stock">In Stock</string>
+    <string name="add_product">Add Product</string>
+    <string name="view_products">View Products</string>
+    <string name="product_list_content_description">List of available grocery products</string>
+    <string-array name="product_categories">
+        <item>Select Category</item>
+        <item>Alcohol</item>
+        <item>Automotive</item>
+        <item>Baby</item>
+        <item>Bakery</item>
+        <item>Baking</item>
+        <item>Beauty</item>
+        <item>Beverages</item>
+        <item>Canned Goods</item>
+        <item>Cleaning</item>
+        <item>Condiments</item>
+        <item>Dairy</item>
+        <item>Deli</item>
+        <item>Electronics</item>
+        <item>Frozen</item>
+        <item>Fruits</item>
+        <item>Garden</item>
+        <item>Grains</item>
+        <item>Health</item>
+        <item>Household</item>
+        <item>Meat</item>
+        <item>Office Supplies</item>
+        <item>Outdoor</item>
+        <item>Pantry</item>
+        <item>Pet Supplies</item>
+        <item>Snacks</item>
+        <item>Sports</item>
+        <item>Sweets</item>
+        <item>Toys</item>
+        <item>Vegetables</item>
+
+        <item>Other</item>
+        <item>All</item>
+    </string-array>
 </resources>

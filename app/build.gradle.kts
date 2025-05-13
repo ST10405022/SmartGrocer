@@ -1,7 +1,7 @@
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
-    alias(libs.plugins.google.gms)
+    alias(libs.plugins.google.services)
 }
 
 android {
@@ -51,5 +51,5 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
     implementation(platform(libs.firebase.bom)) // Firebase BOM
     implementation(libs.firebase.database)     // Realtime Database
-    implementation(libs.firebase.core)
+    implementation(libs.firebase.core)        // Firebase Core
 }

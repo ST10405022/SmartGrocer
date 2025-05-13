@@ -19,3 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
+rootProject.name = "SmartGrocer"
+include(":app")
